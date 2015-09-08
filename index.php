@@ -1,13 +1,9 @@
 <?php 
 	session_start();
 	include "db/config.php";  
-    include "db/connect.php";
-    include "db/db_helper.php";
+	include "db/connect.php";
+	include "db/db_helper.php";
  ?>
-
-<?php  
-	
-?>
 
 <?php 
 	$assets_loc="";
